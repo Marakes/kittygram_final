@@ -30,7 +30,7 @@ Full list of dependencies: `requirements.txt`
  
 ```bash
 # Clone the repository
-git clone https://github.com/Marakes/kittygram_final
+git clone https://github.com/vaultik/kittygram_final
 cd kittygram_final
 ```
  
@@ -78,5 +78,5 @@ GitHub Actions pipeline triggered on push to `main`:
 
 ## Author
 
-https://github.com/Marakes
+[github.com/vaultik](https://github.com/vaultik)
 
